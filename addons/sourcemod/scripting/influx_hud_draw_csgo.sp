@@ -530,7 +530,7 @@ Influx_GetModeName( Influx_GetReplayMode(), szTemp, sizeof( szTemp ), true );
         {
             if ( bprac )
             {
-                Format( szMsg, sizeof( szMsg ), "%sPractising", szMsg );
+                Format( szMsg, sizeof( szMsg ), "%sPracticing", szMsg );
             }
             
             if ( bpause )
