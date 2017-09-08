@@ -13,16 +13,16 @@
 	}
     "CANTPAUSE_PRAC"
 	{
-		"en"			"You cannot pause a practising run!"
+		"en"			"You cannot pause a practice run!"
 	}
 	
-    // Practise
+    // Practice
 	"MUSTBERUNNING_CP"
 	{
 		"en"			"You must be running to use checkpoints!"
 	}
     "MUSTBEPRACTISING"
 	{
-		"en"			"You must be practising!"
+		"en"			"You must be in practice mode!"
 	}
 }
